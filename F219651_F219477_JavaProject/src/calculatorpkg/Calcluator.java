@@ -8,4 +8,7 @@ public class Calcluator {
 		if(x>y) return x-y; else return  y-x;
 	}
 
+	public int divide(int x,int y) {
+		 return x/y;
+	}
 }
